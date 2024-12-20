@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradovic38&label=Profile%20views&color=5000ff&style=flat-square" alt="mradovic38" /> </p>
 
-- 🔭 I’m currently working on [DTW Speech Recognition](https://github.com/mradovic38/dtw-speech-recognition)
+- 🔭 I’m currently working on [Smart Home Voice Command Recognition](https://github.com/mradovic38/voice-command-recognition)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
