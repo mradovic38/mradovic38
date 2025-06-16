@@ -5,7 +5,7 @@ Computer Science student with a primary focus on AI. My goal is to continue expa
 
 *   🌍  I'm based in Belgrade, Serbia
 *   ✉️  You can contact me at [mihailo.radovic11@gmail.com](mailto:mihailo.radovic11@gmail.com)
-*   🚀  I'm currently working on [LLM agent for React package documentation and tests generation.](http://github.com/mradovic38/react-documentation-testing-llm-agent)
+*   🚀  I'm currently researching Flow Matching
 
 ### Skills 
 <p align="left">
