@@ -5,7 +5,7 @@ Computer Science student with a primary focus on AI. My goal is to continue expa
 
 *   🌍  I'm based in Belgrade, Serbia
 *   ✉️  You can contact me at [mihailo.radovic11@gmail.com](mailto:mihailo.radovic11@gmail.com)
-*   🚀  I'm currently researching Flow Matching
+*   🚀  I'm currently working on [Pixel Art Character Generation](https://github.com/mradovic38/pixel-art-character-generation)
 
 ### Skills 
 <p align="left">
